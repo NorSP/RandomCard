@@ -1,1 +1,31 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+#palo2 {
+  transform: rotate(180deg);
+  margin-top: 55px;
+}
+
+.card {
+  margin-top: 150px;
+}
+
+.card-body {
+  background-color: whitesmoke;
+  border-radius: 10px;
+  height: 220px;
+  width: 150px;
+  margin: auto;
+}
+
+body {
+  background-color: brown;
+}
+
+#numero {
+  text-align: center;
+  margin-top: 50px;
+}
+
+#palo {
+  margin-top: -15px;
+}
